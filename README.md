@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>I'm a tech professional with a background in Networking and Cybersecurity, currently expanding my expertise in DevOps. After transitioning from a security-focused role, I'm now diving deep into advanced DevOps tools and practices.<br>My key interests and career goals revolve around Site Reliability Engineering (SRE), DevSecOps, DevOps, and CloudOps.<br>I’m passionate about building secure, scalable, and automated systems — where performance and security go hand-in-hand.
+👋 Hi there!<br>I'm a tech professional with a background in Networking and Cybersecurity, currently expanding my expertise in DevOps. After transitioning from a security-focused role, I'm now diving deep into advanced DevOps tools and practices. My key interests and career goals revolve around Site Reliability Engineering (SRE), DevSecOps, DevOps, and CloudOps. I’m passionate about building secure, scalable, and automated systems — where performance and security go hand-in-hand.
 
 
 ## 🌐 Socials:
